@@ -1,3 +1,6 @@
+JACK NORMAND WAS HERE
+
+
 # Galatic Gunslingers
 Galactic Gunslingers is a turn-based roguelike dungeon crawler in space that is currently in the early stages of development. As of now, the game consists of a menu screen, options, and a single level for the player. 
 
